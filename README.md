@@ -11,7 +11,7 @@ leaving this repo on the unlicense.
 
 (And yeah, there's only one script here so far, deal with it. I've been procrastinating math homework after all.)
 
-
+```
 wordquestion.py - gives answer for questions like "How many n-letter words can you make with the letters of <word>?" 
                   simply supply the starting word and number of letters per word
-                  it's single threaded, so do stupid stuff at your own risk.
+                  it's single threaded, so do stupid stuff at your own risk.```
